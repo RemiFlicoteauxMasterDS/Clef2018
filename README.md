@@ -31,7 +31,7 @@ Two classifiers were used. The main objective was to use machine learning algori
 
 Finaly we use :
 - Neural net with 1 embedding layer and three 1D convolution layers with various kernel size
-- Rule base classifier based on an index word/ICD code
+- Rule base classifier based on an index word/ICD code, the gain was neverless very small on final results.
 
 [Notebook](https://github.com/RemiFlicoteauxMasterDS/Clef2018/blob/master/Clef%202018%20-%20Conv1D%20network%20and%20word%20recognition.ipynb)
 
