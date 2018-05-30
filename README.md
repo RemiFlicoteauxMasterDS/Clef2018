@@ -10,8 +10,8 @@ Task Description :  [CLEF 2018 eHealth 2018](https://sites.google.com/view/clef-
 ### Dictionary
 
 
-A dictionary was produced by concatenating different ICD 10 thesauri available:
-- ICD 10 classification (https://www.bfs.admin.ch/bfs/fr/home/statistiques/sante/nomenclatures/medkk/instruments-codage-medical.assetdetail.1180187.html)
+A dictionary was produced by concatenating different french ICD 10 thesauri available:
+- ICD 10 classification(https://www.atih.sante.fr/plateformes-de-transmission-et-logiciels/logiciels-espace-de-telechargement)
 - ICD 10 index (Vol 2) (https://www.bfs.admin.ch/bfs/fr/home/statistiques/sante/nomenclatures/medkk/instruments-codage-medical.assetdetail.1180186.html)
 - Snomed CT French version (http://esante.gouv.fr/services/referentiels/referentiels-d-interoperabilite/snomed-35vf)
 - Orphanet (http://www.orphadata.org/cgi-bin/inc/ordo_orphanet.inc.php/)
