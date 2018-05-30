@@ -36,3 +36,9 @@ Finaly we use :
 [Notebook](https://github.com/RemiFlicoteauxMasterDS/Clef2018/blob/master/Clef%202018%20-%20Conv1D%20network%20and%20word%20recognition.ipynb)
 
 Data for dictionaries and classification task to be download from the cited organisations.
+
+Références :
+- Suominen, Hanna and Kelly, Liadh and Goeuriot, Lorraine and Kanoulas, Evangelos and Azzopardi, Leif and Spijker, Rene and Li, Dan and Névéol, Aurélie and Ramadier, Lionel and Robert, Aude and Palotti, Joao and Jimmy and Zuccon, Guido. Overview of the CLEF eHealth Evaluation Lab 2018. CLEF 2018 - 8th Conference and Labs of the Evaluation Forum, Lecture Notes in Computer Science (LNCS), Springer, September 2018.
+- Pierre Zweigenbaum and Thomas Lavergne, Hybrid methods for ICD-10 coding of death certificates,  CLEF eHealth 2017
+- Mohamed Dermouche, Vincent Looten, Rémi Flicoteaux, Sylvie Chevret, Julien Velcin and Namik Taright, ICD10 Code Extraction from Death Certificates, CLEF eHealth 2016
+- Yoon Kim, Convolutional Neural Networks for Sentence Classification, EMNLP 2014.
